@@ -2,4 +2,13 @@
 
 created simple netflix dashboard for nexflix data analysis 
 
-link to netflix dashboard project : 
+contains analysis of shows and movies available on netflix 
+
+The dashboard provides insightful visualizations that help users analyze content trends, genre distributions, 
+release patterns, and country-wise availability on the platform.
+
+The dataset contains the following fields:
+
+Title , Type (Movie/TV Show), Cast , Country , Date Added , Release Year , Rating , Duration , Genres , Description of show
+
+link to netflix dashboard project(Tableau public link) : https://public.tableau.com/app/profile/divyanshu.manjhi/viz/NetflixDashboard_17525259133560/NetflixDashboard
